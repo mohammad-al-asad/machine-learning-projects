@@ -6,7 +6,7 @@ Machine learning projects in Python, covering classification and regression on r
 |---|---|---|---|
 | [Titanic Survival Prediction](titanic-survival-prediction/) | Binary classification | Logistic Regression | 84.3% accuracy |
 | [Medical Insurance Cost Prediction](medical-insurance-cost-prediction/) | Regression | Linear Regression with statistical feature selection | R² = 0.78 |
-| [Heart Disease Prediction](heart-disease-prediction/) | Binary classification | EDA, cleaning, encoding and scaling | Data prepared; modeling in progress |
+| [Heart Disease Prediction](heart-disease-prediction/) | Binary classification | EDA, data cleaning, encoding and scaling | — |
 
 ## Tech stack
 
